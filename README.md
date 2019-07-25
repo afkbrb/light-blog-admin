@@ -54,7 +54,7 @@ npm install
 # 需要运行light-blog-back
 # run前可根据实际情况修改.env.development和.env.production中相关内容
 npm run dev
-# 访问地址: http://localhost:8081
+# 访问地址: http://localhost:8081,默认用户名：admin 密码：123456
 # 打包
 npm run build
 ```
