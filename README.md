@@ -8,10 +8,6 @@ Light Blog是一个前后端分离的轻量级个人博客系统，基于本人�
 
 本后台管理系统使用了[vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)作为基础模板
 
-## 预览地址
-
-[2w6f8c.top](http://2w6f8c.top)
-
 ## 技术栈
 
 vue-cli + element-ui + mavon-editor + axios
